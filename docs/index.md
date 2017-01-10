@@ -3,7 +3,7 @@ title: "Tautologisk Forening For Tautologi"
 ---
 Velkommen til websitet for Tautologisk Forening For Tautologi, foreningens online hjemmeside på internettet!
 
-Tautologisk Forening For Tautologi er en forening. Foreningens formål er at forenes om formålet med foreningen, og foreningens formål varetages ved landsdækkende at formidle tautologiske sandheder, truismer, overflødig redundans, pleonasmer og tautologisk dobbeltkonfekt i hele Danmark, samt at sprede tautologien i det ganske land. Se [foreningens vedtægter](/vedtaegter.html) hvis du vil se foreningens vedtægter.
+Tautologisk Forening For Tautologi er en forening for tautologi. Foreningens formål er at forenes om formålet med foreningen, og foreningens formål varetages ved landsdækkende at formidle tautologiske sandheder, truismer, overflødig redundans, pleonasmer og tautologisk dobbeltkonfekt i hele Danmark, samt at sprede tautologien i det ganske land. Se [foreningens vedtægter](/vedtaegter.html) hvis du vil se foreningens vedtægter.
 
 ## Medlemskab
 
