@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Charter';
+  src: url('/styles/charter_regular-webfont.eot');
+  src: url('/styles/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/styles/charter_regular-webfont.woff2') format('woff2'),
+       url('/styles/charter_regular-webfont.woff') format('woff'),
+       url('/styles/charter_regular-webfont.ttf') format('truetype'),
+       url('/styles/charter_regular-webfont.svg#charterregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src: url('/styles/charter_italic-webfont.eot');
+  src: url('/styles/charter_italic-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/styles/charter_italic-webfont.woff2') format('woff2'),
+       url('/styles/charter_italic-webfont.woff') format('woff'),
+       url('/styles/charter_italic-webfont.ttf') format('truetype'),
+       url('/styles/charter_italic-webfont.svg#charteritalic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src: url('/styles/charter_bold-webfont.eot');
+  src: url('/styles/charter_bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/styles/charter_bold-webfont.woff2') format('woff2'),
+       url('/styles/charter_bold-webfont.woff') format('woff'),
+       url('/styles/charter_bold-webfont.ttf') format('truetype'),
+       url('/styles/charter_bold-webfont.svg#charterbold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src: url('/styles/charter_bold_italic-webfont.eot');
+  src: url('/styles/charter_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/styles/charter_bold_italic-webfont.woff2') format('woff2'),
+       url('/styles/charter_bold_italic-webfont.woff') format('woff'),
+       url('/styles/charter_bold_italic-webfont.ttf') format('truetype'),
+       url('/styles/charter_bold_italic-webfont.svg#charterbold_italic') format('svg');
+  font-weight: bold;
+  font-style: italic;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: Charter, serif;
+}

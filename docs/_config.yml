@@ -1,0 +1,23 @@
+# https://github.com/jekyll/jekyll-seo-tag#usage
+title: tfft
+description: "Foreningens formål er at forenes om formålet med foreningen"
+url: "http://www.tfft.dk"
+
+permalink: /blog/:title.html
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: /:path/:basename:output_ext

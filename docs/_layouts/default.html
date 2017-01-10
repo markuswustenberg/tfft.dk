@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang='da'>
+  <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <title>{{ page.title }}</title>
+    <link rel='stylesheet' href='/styles/app.css'>
+    {% seo title=false %}
+  </head>
+  <body>
+    <div class='row'>
+      <div class='small-12 columns'>
+        <ul class='menu'>
+          <li><a href='/'>Forside</a></li>
+          <li><a href='/vedtaegter.html'>Vedtægter</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='small-12 columns'>
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='small-12 columns'>
+        {{ content }}
+      </div>
+    </div>
+    <div class='row'>
+      <div class='small-6 columns text-left'>
+        {% if page.previous.url %}
+          <a href='{{page.previous.url}}'>&laquo;&nbsp;{{page.previous.title}}</a>
+        {% endif %}
+      </div>
+      <div class='small-6 columns text-right'>
+        {% if page.next.url %}
+          <a href='{{page.next.url}}'>{{page.next.title}}&nbsp;&raquo;</a>
+        {% endif %}
+      </div>
+    </div>
+  </body>
+</html>
