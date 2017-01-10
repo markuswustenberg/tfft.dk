@@ -1,5 +1,6 @@
-# Vedtægter for Tautologisk Forening For Tautologi
-
+---
+title: "Vedtægter for Tautologisk Forening For Tautologi"
+---
 ## § 1 NAVN OG STATUS
 Stk. 1: Foreningens navn er Tautologisk Forening For Tautologi.
 

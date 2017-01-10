@@ -1,3 +1,4 @@
-# Tautologisk Forening For Tautologi
-
+---
+title: "Tautologisk Forening For Tautologi"
+---
 Velkommen!
