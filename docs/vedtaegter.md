@@ -30,6 +30,7 @@ Stk. 3a: Hvis ingen medlemmer forsamles, se § 8 stk. 1.
 Stk 3b: Hvis intet suverænt medlemsflertal forefindes afholdes generalforsamlingen et af stederne med delt medlemsflertal.
 
 Stk. 4: Generalforsamlingens dagsorden skal som minimum indeholde:
+
 1. Velkomst
 2. Valg af en ordstyrer og en referent
 3. Godkendelse af referat fra seneste generalforsamling og derfra nævnte referater
