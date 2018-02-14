@@ -7,7 +7,7 @@ Tautologisk Forening For Tautologi er en forening for tautologi. Foreningens for
 
 ## Medlemskab
 
-Du kan blive medlem af foreningen ved at melde dig ind i den! Medlemstilkendegivelse sker ved at _like_ [Facebook-siden for Tautologisk Forening For Tautologi](https://www.facebook.com/tfftdk). Hvis du ikke længere ønsker at være med i foreningen kan du træde ud af den.
+Du kan blive medlem af foreningen ved at melde dig ind i den! Hvis du ikke længere ønsker at være med i foreningen kan du træde ud af den.
 
 ## Referater og andet
 
