@@ -14,6 +14,8 @@ Fremmødte: Lea, Cecilie, Markus.
 4.  Den der taler har ordet. Der tales: dobbeltkonfektspisning. Vel talt. Med munden. Der diskuteres om alle foreningens medlemmer skal spise dobbeltkonfekt. Konsensus om at der ikke er gruppepres og alle ikke behøver indtage konfekten. En smule stilhed mens konfekten indtages med nydelse og fornøjelse.
 
     Konfektbillede!
+    
+    ![konfektbillede](//2019.jpg "Konfektbillede")
 
     Definitionen af dobbeltkonfekt blev oplæst i ophøjet ro og med stor lytterskare.
 
