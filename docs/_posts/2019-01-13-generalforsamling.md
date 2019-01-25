@@ -1,5 +1,6 @@
-# Generalforsamling i Tautologisk Forening For Tautologi søndag den 13. januar 2019 kl. 12
-
+---
+title: "Generalforsamling i Tautologisk Forening For Tautologi søndag den 13. januar 2019 kl. 12"
+---
 Fremmødte: Lea, Cecilie, Markus.
 
 1.  Velkomst. Velkommen!
@@ -15,7 +16,7 @@ Fremmødte: Lea, Cecilie, Markus.
 
     Konfektbillede!
     
-    ![konfektbillede](//2019.jpg "Konfektbillede")
+    ![konfektbillede](/2019.jpg "Konfektbillede")
 
     Definitionen af dobbeltkonfekt blev oplæst i ophøjet ro og med stor lytterskare.
 
