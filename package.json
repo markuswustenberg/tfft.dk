@@ -10,7 +10,7 @@
   "author": "Markus Wüstenberg <markus@wustenberg.dk>",
   "license": "MIT",
   "devDependencies": {
-    "clean-css": "^3.4.21"
+    "clean-css": "^4.1.11"
   },
   "scripts": {
     "build": "yarn run clean && yarn run copy-statics",
