@@ -1,21 +1,11 @@
 {
   "name": "tfft.dk",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Website for Tautologisk Forening For Tautologi.",
-  "main": "index.js",
-  "repository": {
-    "url": "git@github.com:markuswustenberg/tfft.dk.git",
-    "type": "git"
-  },
   "author": "Markus Wüstenberg <markus@wustenberg.dk>",
   "license": "MIT",
   "devDependencies": {
-    "clean-css": "^4.1.11"
-  },
-  "scripts": {
-    "build": "yarn run clean && yarn run copy-statics",
-    "clean": "mkdir -p build && rm -rf build/*",
-    "copy-statics": "mkdir -p build/styles && cleancss statics/styles/foundation.css statics/styles/main.css > build/styles/app.css",
-    "publish": "yarn run build && cp -a build/ docs"
+    "bulma": "^0.8.0",
+    "node-sass": "^4.13.0"
   }
 }

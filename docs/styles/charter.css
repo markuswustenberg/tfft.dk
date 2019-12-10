@@ -45,15 +45,3 @@
   font-weight: bold;
   font-style: italic;
 }
-
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: Charter, serif;
-}
-
-ul, ol {
-  margin-left: 1.25rem;
-}
-
-.row {
-  max-width: 50rem;
-}

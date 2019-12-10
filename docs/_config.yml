@@ -1,7 +1,7 @@
 # https://github.com/jekyll/jekyll-seo-tag#usage
 title: tfft
 description: "Foreningens formål er at forenes om formålet med foreningen"
-url: "http://www.tfft.dk"
+url: "https://www.tfft.dk"
 
 permalink: /blog/:title.html
 
